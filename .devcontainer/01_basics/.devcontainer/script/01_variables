@@ -1,0 +1,14 @@
+const accountid=123
+let accountEmail="ishagoel@gmail.com"
+accountcity="jaipur"
+
+let accountname
+//in javascript we can declare the variable with let keyword or without any keyword
+
+console.table([accountid,accountEmail,accountcity,accountname])
+console.log(accountid)
+
+//here for constant only accountid=2 is not allowed we have to declare the constant by the const keyword
+/*
+prefer not to use var because of the issue on block scope and functional scope
+*/

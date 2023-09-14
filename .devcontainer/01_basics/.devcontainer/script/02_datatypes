@@ -1,0 +1,22 @@
+"Use Strict"; // treat all js code as newer version
+//alert(3+3)   we are using nodejs not browser
+
+console.log(3+
+    3) // note that code should be in readable manner
+
+    let name="isha"
+    let age=24
+    let isLoggedIn=true
+
+    //number=> 2 to the power 53
+    //bigInt for out of the range value
+    //string
+    //boolean
+    //symbol = unique
+    //null= standalone value
+    //undefined
+
+    //object
+
+    console.log(typeof null); //object
+    console.log(typeof undefined);

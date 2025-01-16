@@ -1,5 +1,5 @@
 "Use Strict"; // treat all js code as newer version
-//alert(3+3)   we are using nodejs not browser
+//alert(3+4)   we are using nodejs not browser
 
 console.log(3+
     3) // note that code should be in readable manner
